@@ -8,13 +8,13 @@
 	"liferayTheme": {
 		"baseTheme": "styled",
 		"screenshot": "",
-		"rubySass": false,
+		"rubySass": true,
 		"templateLanguage": "<%= templateLanguage %>",
-		"version": "<%= liferayVersion %>"
+		"version": "6.2"
 	},
 	"devDependencies": {
 		"gulp": "^3.8.10",
 		"liferay-theme-tasks": "^1.4.2",
-		"liferay-theme-deps-7.0": "~1.2.1"
+		"liferay-theme-deps-6.2": "*"
 	}
 }
